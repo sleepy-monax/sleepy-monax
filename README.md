@@ -1,3 +1,7 @@
 **マーモット**
 
-I'm not sure what I'm supposed to put here :3
+Hi everyone 👋
+
+I'm sleep-monax and I'm building the [skift operating system](https://github.com/skiftOS/skift) 👷‍♀️
+
+Fell free to talk with me on discord `sleepy-monax#9672`
